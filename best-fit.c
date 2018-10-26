@@ -1,5 +1,5 @@
 /***Algoritmo de alocação de memória Best-fit 
-****Desenvolvidor por Rafael Borba dos Santos
+****Desenvolvidor por Rafael Borba dos Santos e Andressa Sias
 ****Para A disciplina de Sistemas Operacionais da Ulbra
 ****/
 #include <stdio.h>
